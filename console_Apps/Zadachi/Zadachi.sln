@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Zadachi", "Zadachi\Zadachi.vcxproj", "{8F98D622-1822-4A18-A156-E40F907C432B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F98D622-1822-4A18-A156-E40F907C432B}.Debug|x64.ActiveCfg = Debug|x64
+		{8F98D622-1822-4A18-A156-E40F907C432B}.Debug|x64.Build.0 = Debug|x64
+		{8F98D622-1822-4A18-A156-E40F907C432B}.Debug|x86.ActiveCfg = Debug|Win32
+		{8F98D622-1822-4A18-A156-E40F907C432B}.Debug|x86.Build.0 = Debug|Win32
+		{8F98D622-1822-4A18-A156-E40F907C432B}.Release|x64.ActiveCfg = Release|x64
+		{8F98D622-1822-4A18-A156-E40F907C432B}.Release|x64.Build.0 = Release|x64
+		{8F98D622-1822-4A18-A156-E40F907C432B}.Release|x86.ActiveCfg = Release|Win32
+		{8F98D622-1822-4A18-A156-E40F907C432B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC9DCF3D-2018-494B-A103-1FDEE7F296BC}
+	EndGlobalSection
+EndGlobal
